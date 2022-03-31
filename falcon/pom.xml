@@ -26,7 +26,7 @@
 
     <properties>
         <java.version>1.8</java.version>
-        <springboot.version>2.1.9.RELEASE</springboot.version>
+        <springboot.version>2.5.12</springboot.version>
         <mybatis-spring-boot-starter.version>1.3.2</mybatis-spring-boot-starter.version>
         <mapper-spring-boot-starter.version>2.1.5</mapper-spring-boot-starter.version>
         <mybatis-generator-core.version>1.3.5</mybatis-generator-core.version>
